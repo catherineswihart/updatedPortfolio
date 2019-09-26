@@ -1,10 +1,10 @@
 /* --- STYLES FOR ALL PAGES --- */
 body {
   /* Typography */
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Catamaran', sans-serif;
 
   /* Visual */
-  background-image: url("../imgs/ignasi_pattern_s.png");
+  /* background-image: url ("succulent.jpg"); */
 }
 
 html {
@@ -22,7 +22,7 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: #fff;
+  background-color: white;
 
   padding: 30px;
   margin-bottom: 30px;
@@ -30,38 +30,38 @@ main {
 
 .block-header {
   /* Typography */
-  color: gray;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: darkgreen;
+  font-family: 'Catamaran', sans-serif;
   font-weight: bold;
 }
 
 /* NAV START */
 #logo {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Catamaran', sans-serif;
 
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: #fff;
+  color: darkgreen;
 
   /* Visual */
-  background: gray;
+  background: white;
 }
 
 /* override bootstrap hover color and border */
 .navbar-default .navbar-nav > li > a:hover {
-  color: #4aaaa5;
+  color: white;
 }
 
 .navbar {
-  background: white;
+  background: darkgreen;
   border: none;
 }
 
 /* media query for nav background color change */
 @media only screen and (max-width: 767px) {
   .navbar-header {
-    background-color: gray;
+    background-color: white;
   }
 }
 /* END NAV */
@@ -127,12 +127,13 @@ main {
 .about-me-header {
   /* Positioning */
   margin-bottom: 33px;
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: 'Catamaran', sans-serif;
 
   /* Typography */
   font-size: 32px;
   font-weight: bold;
   color: gray;
+  font-family: 'Catamaran', sans-serif;
 }
 
 #about-image {
