@@ -203,6 +203,7 @@ main {
 /* unvisited link */
 a:link {
   color: grey;
+  text-align: center;
 }
 
 /* visited link */
@@ -219,6 +220,8 @@ a:hover {
 a:active {
   color: grey;
 }
+
+
 
 
 /* END CONTACT FORM PAGE */
