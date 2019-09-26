@@ -136,6 +136,22 @@ main {
 /* --- END STYLES FOR ALL PAGES --- */
 
 /* --- PAGE-SPECIFIC STYLES --- */
+
+/* HOME PAGE */
+
+/* Positioning */
+#carousel {
+  position: center;
+  repeat: no-repeat;
+  size: cover;
+
+/* Box-model */
+width: 100%;
+margin: 0 20px 10px 0;
+}
+
+
+
 /* ABOUT-ME PAGE */
 .about-me-header {
   /* Positioning */
@@ -216,5 +232,6 @@ a:hover {
 a:active {
   color: grey;
 }
+
 
 /* END CONTACT FORM PAGE */
