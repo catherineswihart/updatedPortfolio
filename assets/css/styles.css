@@ -4,7 +4,7 @@ body {
   font-family: 'Catamaran', sans-serif;
 
   /* Visual */
-  /* background-image: url ("succulent.jpg"); */
+  background-image: url("../photos/succulent.jpg");
 }
 
 html {
@@ -22,7 +22,7 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: white;
+  /* background-color:white; */
 
   padding: 30px;
   margin-bottom: 30px;
@@ -101,6 +101,7 @@ main {
 
   /* Visual */
   background-color: #666;
+  font-family: 'Catamaran', sans-serif;
 }
 
 .text-muted-footer {
@@ -109,6 +110,7 @@ main {
 
   /* Typography */
   color: #fff;
+  font-family: 'Catamaran', sans-serif;
 }
 
 .two-toned-footer-color {
@@ -118,6 +120,7 @@ main {
 
   /* Visual */
   background-color: gray;
+  font-family: 'Catamaran', sans-serif;
 }
 /* END FOOTER */
 /* --- END STYLES FOR ALL PAGES --- */
@@ -172,6 +175,7 @@ main {
 
   /* Typography */
   color: #fff;
+  font-family: 'Catamaran', sans-serif;
 
   /* Visual */
   background-color: gray;
