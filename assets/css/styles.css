@@ -199,5 +199,20 @@ main {
   opacity: .7;
 }
 
+.button {
+    background-color: #4E7C61; 
+    border: none;
+    color: white;
+    padding: 10px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    color: white;
+    float: right;
+  }
+
+
+}
 
 /* END CONTACT FORM PAGE */
