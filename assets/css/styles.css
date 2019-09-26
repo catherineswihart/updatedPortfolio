@@ -200,28 +200,4 @@ main {
 }
 
 
-/* unvisited link */
-a:link {
-  color: grey;
-  text-align: center;
-}
-
-/* visited link */
-a:visited {
-  color: #4E7C61;
-}
-
-/* mouse over link */
-a:hover {
-  color: #4E7C61;
-}
-
-/* selected link */
-a:active {
-  color: grey;
-}
-
-
-
-
 /* END CONTACT FORM PAGE */
