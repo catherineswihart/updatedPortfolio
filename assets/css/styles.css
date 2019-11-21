@@ -1,7 +1,7 @@
 /* --- STYLES FOR ALL PAGES --- */
 body {
   /* Typography */
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 
   /* Visual */
   background-image: url("../photos/plant4.jpg");
@@ -41,13 +41,13 @@ main {
 .block-header {
   /* Typography */
   color: white;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Raleway', sans-serif;
   font-weight: bold;
 }
 
 /* NAV START */
 #logo {
-    font-family: 'Catamaran', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 
   /* Typography */
   font-size: 24px;
@@ -111,7 +111,7 @@ main {
 
   /* Visual */
   background-color: white;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
 .text-muted-footer {
@@ -120,7 +120,7 @@ main {
 
   /* Typography */
   color: #4E7C61;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
 .two-toned-footer-color {
@@ -130,7 +130,7 @@ main {
 
   /* Visual */
   background-color: white;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 }
 /* END FOOTER */
 /* --- END STYLES FOR ALL PAGES --- */
@@ -141,13 +141,13 @@ main {
 .about-me-header {
   /* Positioning */
   margin-bottom: 33px;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 
   /* Typography */
   font-size: 32px;
   font-weight: bold;
   color: gray;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
 #about-image {
@@ -188,7 +188,7 @@ main {
 
   /* Typography */
   color: #fff;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 
   /* Visual */
   background-color: gray;
